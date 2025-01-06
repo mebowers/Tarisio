@@ -315,12 +315,12 @@ app_ui = ui.page_navbar(
                     ui.output_image("image"), 
                 ),     
                 ui.column(6, 
-                    ui.p("Margaret Bowers is a \
-                        professional violinist with the Spokane Symphony Orchestra \
-                        studying Data Science with \
-                        NYC Data Science Academy. Before joining the SSO, Margaret studied at \
-                        the Eastman School of Music and earned a B.S. in Physics from the \
-                        University of Rochester."),
+                    ui.p("Margaret Bowers is studying Data Science with NYC Data \
+                        Science Academy. She earned a B.S. in Physics from the \
+                        University of Rochester and studied violin performance at the \
+                        Eastman School of Music. She \
+                        is a professional violinist with the Spokane Symphony Orchestra \
+                        in Spokane, Washington."),
                     ui.tags.p("Contact: margaret.bowers@gmail.com."),
                     ui.tags.i("photo: Instruments of the Spokane Symphony Orchestra"),
                 ),               
