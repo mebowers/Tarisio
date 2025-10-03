@@ -1,5 +1,5 @@
 # Tarisio
-This is my Shiny app with Python project for NYC Data Science Academy. I am a professional violinist and chose to use data from Tarisio.com, the world’s leading auction house for fine stringed instruments and bows, so that I could explore and compare auction records of different instrument makers and consider how values have changed over time. 
+This is my Shiny app with Python project for NYC Data Science Academy. I am a professional violinist and chose to use data from Tarisio.com, the world’s leading auction house for fine stringed instruments and bows, so that I could explore and compare auction records for different instrument makers and consider how values have changed over time. 
 
 This project was used to create an app for the purposes of data visualization and exploration. It does not encompass analysis of the data. 
 
