@@ -13,8 +13,8 @@ I created a Shiny dashboard app using Python to visualize the data and allow use
 
 ## Author
 
-(Blog Post)[https://nycdatascience.com/blog/student-works/exploring-tarisio-stringed-instrument-and-bow-auction-data/]
+[Blog Post](https://nycdatascience.com/blog/student-works/exploring-tarisio-stringed-instrument-and-bow-auction-data/)
 
-(App)[https://margaretbowers.shinyapps.io/tarisio-app]
+[App](https://margaretbowers.shinyapps.io/tarisio-app)
 
 LinkedIn:
